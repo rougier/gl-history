@@ -1,4 +1,3 @@
 # OpenGL history
 
-![](./gl-history.pdf)
-
+![](https://github.com/rougier/gl-history/raw/master/gl-history.pdf)
