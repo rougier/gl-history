@@ -1,2 +1,4 @@
-# gl-history
-OpenGL history document
+# OpenGL history
+
+![](./gl-history.pdf)
+
